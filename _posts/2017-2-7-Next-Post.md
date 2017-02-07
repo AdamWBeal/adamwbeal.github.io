@@ -1,3 +1,6 @@
-__Here is some text__
+---
+layout: post
+title: my title
+---
 
-![](/Users/mac/dsi-nyc-4/adamwbeal.github.io/images/Screen Shot 2017-02-07.png)
+![](../images/Screen Shot 2017-02-07.png)
